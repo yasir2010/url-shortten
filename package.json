@@ -1,0 +1,30 @@
+{
+  "name": "urlshorten",
+  "version": "1.0.0",
+  "description": "Free Code Camp API Project URL Shorten Microservice",
+  "main": "index.js",
+  "dependencies": {
+    "bitly": "^4.1.1",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasir2010/url-shortten.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yasir2010/url-shortten/issues"
+  },
+  "homepage": "https://github.com/yasir2010/url-shortten#readme",
+  "keywords": [
+    "url",
+    "shorten",
+    "microservice",
+    "freecodecamp"
+  ]
+}
